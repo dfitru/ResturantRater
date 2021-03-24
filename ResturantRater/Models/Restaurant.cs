@@ -8,7 +8,7 @@ namespace ResturantRater.Models
 {
     public class Restaurant
     {
-        public int RestauramtId { get; set; }
+        public int RestaurantId { get; set; }
         public int Name { get; set; }
         public int Adress { get; set; }
         public int Rating { get; set; }
